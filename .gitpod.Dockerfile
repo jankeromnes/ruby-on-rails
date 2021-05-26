@@ -1,4 +1,4 @@
-FROM gitpod/workspace-postgres
+FROM gitpod/workspace-postgres:branch-jx-update-gopls
 USER gitpod
 
 # Install the Ruby version specified in '.ruby-version'
